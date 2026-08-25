@@ -1,0 +1,79 @@
+driver_id,year,entity_type,entity_name,confidence
+aitken,2018,junior_team,ART Grand Prix (F2),high
+aitken,2019,junior_team,Campos Racing (F2),high
+aitken,2020,academy,Williams Driver Academy,high
+aitken,2021,junior_team,HWA Racelab (F2),high
+albon,2012,academy,Red Bull Junior Team,medium
+albon,2018,junior_team,DAMS (F2),high
+antonelli,2019,academy,Mercedes Junior Team,high
+antonelli,2024,junior_team,Prema Racing (F2),high
+bearman,2021,academy,Ferrari Driver Academy,high
+bearman,2023,junior_team,Prema Racing (F2),high
+bortoleto,2023,academy,McLaren Driver Development Programme,high
+bortoleto,2024,junior_team,Invicta Racing (F2),high
+brendon_hartley,2007,academy,Red Bull Junior Team,medium
+colapinto,2023,junior_team,MP Motorsport (F2),high
+colapinto,2024,academy,Williams Driver Academy,high
+colapinto,2024,junior_team,MP Motorsport (F2),high
+de_vries,2010,academy,McLaren Driver Development Programme,high
+de_vries,2018,junior_team,Prema Racing (F2),high
+de_vries,2019,junior_team,ART Grand Prix (F2),high
+doohan,2021,junior_team,MP Motorsport (F2),medium
+doohan,2022,academy,Alpine Academy,high
+doohan,2022,junior_team,Virtuosi Racing (F2),high
+doohan,2023,junior_team,Invicta Virtuosi Racing (F2),high
+ericsson,2013,junior_team,iSport International (GP2),high
+gasly,2014,academy,Red Bull Junior Team,high
+gasly,2016,junior_team,Prema Racing (GP2),high
+giovinazzi,2016,academy,Ferrari Driver Academy,medium
+giovinazzi,2016,junior_team,Prema Racing (GP2),high
+grosjean,2011,junior_team,DAMS (GP2),high
+hadjar,2022,academy,Red Bull Junior Team,high
+hadjar,2023,junior_team,Hitech Pulse-Eight (F2),high
+hadjar,2024,junior_team,Campos Racing (F2),high
+hamilton,1998,academy,McLaren Driver Development Programme,high
+hulkenberg,2009,junior_team,ART Grand Prix (GP2),high
+kevin_magnussen,2010,academy,McLaren Driver Development Programme,high
+kubica,2005,junior_team,RC Motorsport (F3 Euro Series),medium
+kvyat,2011,academy,Red Bull Junior Team,high
+kvyat,2013,junior_team,MW Arden (GP3),medium
+latifi,2018,junior_team,DAMS (F2),high
+latifi,2019,academy,Williams Driver Academy,high
+lawson,2019,academy,Red Bull Junior Team,high
+lawson,2021,junior_team,Hitech Grand Prix (F2),high
+lawson,2022,junior_team,Carlin (F2),high
+leclerc,2016,academy,Ferrari Driver Academy,high
+leclerc,2017,junior_team,Prema Racing (F2),high
+max_verstappen,2014,academy,Red Bull Junior Team,high
+mazepin,2019,junior_team,ART Grand Prix (F2),high
+mazepin,2020,junior_team,Hitech Grand Prix (F2),high
+mick_schumacher,2019,academy,Ferrari Driver Academy,high
+mick_schumacher,2019,junior_team,Prema Racing (F2),high
+norris,2017,academy,McLaren Driver Development Programme,high
+norris,2018,junior_team,Carlin (F2),high
+ocon,2014,academy,Mercedes Junior Team,high
+perez,2009,junior_team,Barwa Addax Team (GP2),medium
+perez,2010,academy,Ferrari Driver Academy,medium
+piastri,2020,academy,Alpine Academy,high
+piastri,2021,junior_team,Prema Racing (F2),high
+pietro_fittipaldi,2019,junior_team,Charouz Racing System (F2),high
+pietro_fittipaldi,2020,junior_team,Charouz Racing System (F2),high
+ricciardo,2008,academy,Red Bull Junior Team,high
+ricciardo,2010,junior_team,Carlin (FR3.5/GP3),medium
+russell,2017,academy,Mercedes Junior Team,high
+russell,2018,junior_team,ART Grand Prix (F2),high
+sainz,2011,academy,Red Bull Junior Team,high
+sainz,2015,junior_team,Carlin (GP2),high
+sargeant,2021,junior_team,HWA Racelab (F2),high
+sargeant,2022,academy,Williams Driver Academy,high
+sargeant,2022,junior_team,Carlin (F2),high
+sirotkin,2015,academy,Renault Sport Academy,medium
+sirotkin,2016,junior_team,ART Grand Prix (GP2),high
+stroll,2010,academy,Ferrari Driver Academy,high
+stroll,2016,junior_team,Prema Racing (European F3),high
+tsunoda,2018,academy,Red Bull Junior Team,high
+tsunoda,2020,junior_team,Carlin (F2),high
+vandoorne,2013,academy,McLaren Driver Development Programme,high
+vettel,1998,academy,Red Bull Junior Team,high
+zhou,2014,academy,Ferrari Driver Academy,high
+zhou,2019,junior_team,UNI-Virtuosi Racing (F2),high

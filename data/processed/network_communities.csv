@@ -1,0 +1,32 @@
+node_id,node_type,community
+Renault Sport Academy,academy,0
+Williams Driver Academy,academy,0
+Williams,f1_team,0
+ART Grand Prix,junior_team,0
+Campos Racing,junior_team,0
+MP Motorsport,junior_team,0
+HWA Racelab,junior_team,0
+RC Motorsport,junior_team,0
+Alpine (Renault),f1_team,1
+Aston Martin (Force India/Racing Point),f1_team,1
+McLaren,f1_team,1
+Haas,f1_team,1
+Ferrari,f1_team,1
+Charouz Racing System,junior_team,1
+Red Bull Junior Team,academy,2
+RB (Toro Rosso/AlphaTauri),f1_team,2
+Red Bull Racing,f1_team,2
+Hitech Grand Prix,junior_team,2
+Carlin,junior_team,2
+DAMS,junior_team,2
+MW Arden,junior_team,2
+Mercedes Junior Team,academy,3
+Alpine Academy,academy,3
+Ferrari Driver Academy,academy,3
+McLaren Driver Development Programme,academy,3
+Sauber (Alfa Romeo),f1_team,3
+Mercedes,f1_team,3
+Prema Racing,junior_team,3
+Virtuosi Racing (ex Russian Time),junior_team,3
+Barwa Addax Team,junior_team,3
+iSport International,junior_team,3
